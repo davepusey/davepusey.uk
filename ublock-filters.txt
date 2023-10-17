@@ -1,0 +1,5 @@
+countypress.co.uk##div[piano-floating-bottom-banner]
+
+! 2023-10-17 https://www.youtube.com
+www.youtube.com##ytd-popup-container:remove()
+www.youtube.com##tp-yt-iron-overlay-backdrop:remove()
