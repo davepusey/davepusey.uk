@@ -1,0 +1,3 @@
+[submodule "f1-schedule"]
+	path = f1-schedule
+	url = https://github.com/davepusey/f1-schedule.git
